@@ -1,7 +1,7 @@
 # ChatApp Mobile
 
 A React Native version of the ChatApp frontend, featuring real-time messaging, user authentication, and emoji reactions.
-
+<video src="https://github.com/user-attachments/assets/36e37988-2c73-4df7-a5c7-a966b2549916" autoplay loop muted playsinline width="600"></video>
 ## 🚀 Features
 
 - **Real-time Chat**: Instant messaging with SignalR integration
